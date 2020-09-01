@@ -1,0 +1,8 @@
+[package]
+name = "rust-azul-playground"
+version = "0.1.0"
+authors = ["Kaleb Lape <pingortle@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul" }
